@@ -1,0 +1,73 @@
+"filename", "language", "JavaScript", "Markdown", "JSON", "XML", "YAML", "CSS", "HTML", "JavaScript React", "Less", "comment", "blank", "total"
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\Readme.md", "Markdown", 0, 59, 0, 0, 0, 0, 0, 0, 0, 0, 32, 91
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\GroupExitSurvey.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 339, 0, 11, 27, 377
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\GroupExitSurvey2.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 461, 0, 1, 41, 503
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\GroupExitSurvey3.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 461, 0, 1, 39, 501
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\IndividualExitSurvey.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 225, 0, 23, 17, 265
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\Sorry.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 59, 0, 22, 13, 94
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\exit\Thanks.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 4, 35
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\Author.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 3, 17
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\ChatLog.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 104, 0, 9, 15, 128
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\EventLog.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 78, 0, 25, 10, 113
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\Room.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 66, 0, 15, 13, 94
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\Round.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 27, 0, 2, 6, 35
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\SocialInteractions.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 61, 0, 2, 7, 70
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\Student.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 68, 0, 20, 8, 96
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\Task.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 209, 0, 25, 23, 257
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\TimerDown.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 23, 0, 1, 6, 30
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\game\TimerUp.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 53, 0, 26, 10, 89
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\innerComponent\About.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 7
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\innerComponent\Breadcrumb.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 29, 0, 1, 4, 34
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\innerComponent\Lobby.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 39, 0, 21, 5, 65
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\innerComponent\NewPlayer.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 61, 0, 0, 7, 68
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\Consent.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 189, 0, 199, 30, 418
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\ConstraintsDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 236, 0, 280, 49, 565
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\GroupQuiz.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 272, 0, 281, 38, 591
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\IndividualQuiz.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 204, 0, 209, 27, 440
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\MoreAboutBonus.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 103, 0, 119, 29, 251
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\Overview.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 94, 0, 1, 8, 103
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\RoomArrangements.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 5, 51
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\SocialInteractionDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 146, 0, 3, 12, 161
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\TaskDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 233, 0, 7, 24, 264
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\TeamDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 98, 0, 3, 8, 109
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\UIOverview.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 49, 0, 1, 7, 57
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro - 副本\main.less", "Less", 0, 0, 0, 0, 0, 0, 0, 0, 0, 421, 77, 498
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\Consent.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 71, 0, 194, 23, 288
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\ConstraintsDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 237, 0, 281, 49, 567
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\GroupQuiz.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 294, 0, 279, 33, 606
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\HelloTest.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 2, 12
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\IndividualQuiz.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 205, 0, 209, 25, 439
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\MoreAboutBonus.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 79, 0, 127, 26, 232
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\Overview.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 89, 0, 8, 4, 101
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\RoomArrangements.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 53, 0, 0, 4, 57
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\SocialInteractionDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 146, 0, 3, 12, 161
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\TaskDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 241, 0, 8, 23, 272
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\TeamDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 97, 0, 4, 7, 108
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\UIOverview.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 52, 0, 1, 6, 59
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\pictureIntro\PictureGoBonus.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 94, 0, 0, 7, 101
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\pictureIntro\PictureGoGame.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 98, 0, 2, 7, 107
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\pictureIntro\PictureGoTeam.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 100, 0, 0, 7, 107
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\pictureIntro\PictureIntro.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 504, 0, 28, 26, 558
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\Consent.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 92, 0, 195, 25, 312
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\GroupQuiz.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 338, 0, 30, 13, 381
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\P1GameDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 340, 0, 13, 25, 378
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\P1Overview.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 89, 0, 8, 5, 102
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\P2TeamDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 173, 0, 4, 11, 188
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\intro\simpleIntro\P3ScoreAndBonus.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 65, 0, 3, 5, 73
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\main.css", "CSS", 0, 0, 0, 0, 0, 619, 0, 0, 0, 36, 16, 671
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\main.html", "HTML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 7
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\client\main.js", "JavaScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 34, 20, 113
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\deployment.json", "JSON", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 15
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\example-config.yaml", "YAML", 0, 0, 0, 0, 124, 0, 0, 0, 0, 0, 1, 125
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\package-lock.json", "JSON", 0, 0, 1524, 0, 0, 0, 0, 0, 0, 0, 1, 1525
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\package.json", "JSON", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 1, 30
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\pilot_1_config_with_Nak.yaml", "YAML", 0, 0, 0, 0, 171, 0, 0, 0, 0, 0, 1, 172
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\public\experiment\groupUIExample.svg", "XML", 0, 0, 0, 4038, 0, 0, 0, 0, 0, 1, 2, 4041
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\public\experiment\indUIExample.svg", "XML", 0, 0, 0, 2959, 0, 0, 0, 0, 0, 1, 2, 2962
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\public\experiment\instruction-room-arrangements.svg", "XML", 0, 0, 0, 1769, 0, 0, 0, 0, 0, 1, 17, 1787
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\public\resources\icons\icons.json", "JSON", 0, 0, 3166, 0, 0, 0, 0, 0, 0, 0, 1, 3167
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\server\bots.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 12, 6, 19
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\server\callbacks.js", "JavaScript", 326, 0, 0, 0, 0, 0, 0, 0, 0, 146, 53, 525
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\server\constants.js", "JavaScript", 478, 0, 0, 0, 0, 0, 0, 0, 0, 439, 5, 922
+"d:\TT-knight\Master\My Programming\Meteor\mymeteor\room-assignment-csop-main\server\main.js", "JavaScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 23, 15, 79
+"Total", "-", 905, 59, 4733, 8766, 295, 619, 6, 7551, 0, 3819, 1093, 27846
