@@ -1,0 +1,14 @@
+{
+    "admins": [
+      {
+        "username": "admin",
+        "password": "admin123456"
+      }
+    ],
+    "galaxy.meteor.com": {
+      "env": {
+        "MONGO_URL": "mongodb://127.0.0.1:3001/meteor?readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+        "MONGO_OPLOG_URL": "mongodb+srv://oploguser:SecretPassword2@cluster0.0funy.mongodb.net/local"
+      }
+    }
+  }
